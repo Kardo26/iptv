@@ -103,3 +103,9 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Zaytountv.iq",Zaytoun tv
+https://barham.short.gy/VPTcoB.m3u8
+#EXTINF:-1 tvg-id="Zaytounsporttv.iq",Zaytoun Sport tv
+https://barham.short.gy/zvgsport.m3u8
+#EXTINF:-1 tvg-id="Zaytounspacetv.iq",Zaytoun space tv
+https://barham.short.gy/zvgspace.m3u8
